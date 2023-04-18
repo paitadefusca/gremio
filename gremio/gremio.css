@@ -1,0 +1,61 @@
+header{
+  color: white;
+}
+.caixa{
+  position: relative;
+  width: 940px;
+  margin:  0 auto;
+}
+nav{
+  position: absolute;
+  top: 110px;
+  right: 0;
+}
+nav li{
+  margin: 0 0 0 15px;
+  font-size: 12px;
+}
+nav a{
+  text-transform: uppercase;
+  color: #000000;
+  font-weight: bold;
+  font-size: 20px;
+  text-decoration: none;
+}
+main{
+  width: 940px;
+  margin: 0 auto;
+}
+form{
+  margin: 40px 0;
+  color: white;
+}
+.input-padrao{
+  display: block;
+  margin: 0 0 20px;
+  padding: 10px 25px;
+  width: 50%;
+}
+.h2{
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 30px;
+  margin: 15px 0 25px 0;
+  color: white;
+}
+.bg{
+  background-image: url(fundo.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+.geromel{
+  color: white;
+}
+.h1{
+  color: blue;
+}
+.logo{
+  width: 40px;
+}
